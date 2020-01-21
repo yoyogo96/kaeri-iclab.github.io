@@ -339,6 +339,12 @@ body {
 
   .archive__item-title {
     margin-top: 0;
+    a {
+    	text-decoration: none;
+	        &:hover {
+      text-decoration: underline;
+	    }
+	  }
   }
 
   .archive__subtitle {
