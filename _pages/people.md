@@ -56,7 +56,7 @@ E-mail : hogeony@kaeri.re.kr <br>
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/han.jpg){: .align-right} 
 **이유한** <br><br>
 선임연구원 <br>
-Research Interest : 딥러닝, 캐글 <br>
+Research Interest : 데이터 사이언스, 이상징후 감지 <br>
 Phone : 042-866-6519 <br>
 E-mail : youhanlee@kaeri.re.kr <br>
 
