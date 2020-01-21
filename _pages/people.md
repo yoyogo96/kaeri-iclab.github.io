@@ -72,4 +72,4 @@ E-mail : ashryu@kaeri.re.kr <br>
 ---
 # Aivengers assemble!! 
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/aivengers.jpg){: .align-center} 
+![aivengers]]({{ site.url }}{{ site.baseurl }}/assets/images/Aivengers.jpg){: .align-center} 
