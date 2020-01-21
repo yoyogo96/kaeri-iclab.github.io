@@ -1,0 +1,22 @@
+a {
+  text-decoration: none;
+}
+
+a {
+  &:link {
+    color: #2bdfbb;
+  }
+
+  &:focus {
+    @extend %tab-focus;
+  }
+
+  &:visited {
+    color: $link-color-visited;
+  }
+
+  &:hover {
+    color: $link-color-hover;
+    outline: 0;
+  }
+}
