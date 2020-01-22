@@ -2,9 +2,10 @@
 title: "Contact"
 layout: single
 header:
-  overlay_image: /assets/images/title7.jpg
+  overlay_image: /assets/images/base/a_contact.jpg
 permalink: /contact/
 author_profile: false
+toc: false
 ---
 ### 한국원자력연구원 지능형컴퓨팅연구실 <br>
 

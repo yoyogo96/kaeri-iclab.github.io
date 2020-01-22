@@ -3,7 +3,7 @@ title: "Photos"
 layout: single
 permalink: /photos/
 header:
-  overlay_image: /assets/images/title4.jpg
+  overlay_image: /assets/images/base/a_photo.jpg
 author_profile: false
 gallery:
   - url: /assets/images/gallery/0113_gist-1.jpg

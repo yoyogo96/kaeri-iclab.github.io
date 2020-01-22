@@ -2,7 +2,7 @@
 title: "People"
 layout: single
 header:
-  overlay_image: /assets/images/a3-2.jpg
+  overlay_image: /assets/images/base/a_people.jpg
 permalink: /people/
 author_profile: false
 toc: false
@@ -72,4 +72,4 @@ E-mail : ashryu@kaeri.re.kr <br>
 ---
 # Aivengers assemble!! 
 
-![aivengers]({{ site.url }}{{ site.baseurl }}/assets/images/Aivengers.jpg){: .align-center} 
+![aivengers]({{ site.url }}{{ site.baseurl }}/assets/images/base/Aivengers.jpg){: .align-center} 
