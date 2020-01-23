@@ -21,7 +21,7 @@ E-mail : ygyu@kaeri.re.kr <br>
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/jeon.jpg){: .align-right} 
 **전병일** <br> <br>
 선임연구원 <br>
-Research Interest : 인공지능 <br>
+Research Interest : 인공지능기반 방사선계측 응용기술 <br>
 Phone : 042-866-6148 <br>
 E-mail : bijeon@kaeri.re.kr <br>
 
@@ -39,7 +39,7 @@ E-mail : ktlim@kaeri.re.kr <br>
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/dong.jpg){: .align-right} 
 **이수동** <br><br>
 선임연구원 <br>
-Research Interest : 인공지능 기반기술 <br>
+Research Interest : Industrial AI, 인공지능 기반기술 <br>
 Phone : 042-866-6522 <br>
 E-mail : sdlee@kaeri.re.kr <br>
 
@@ -65,7 +65,7 @@ E-mail : youhanlee@kaeri.re.kr <br>
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/hyoung.jpg){: .align-left} 
 **류승형** <br><br>
 선임연구원 <br>
-Research Interest : 시계열 데이터, 강화 학습 <br>
+Research Interest : Applied ML, 강화 학습 <br>
 Phone : 042-866-6521 <br>
 E-mail : ashryu@kaeri.re.kr <br>
 
