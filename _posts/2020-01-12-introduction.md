@@ -26,4 +26,4 @@ header:
 3. [딥러닝을 사용한 화학공학 분야 문제 해결 - 이유한]({{ site.url }}{{ site.baseurl }}/assets/files/0107_intro_yhlee.pdf)
 4. [능동안전을 위한 비파괴 평가 및 예후진단을 위한 헬스케어 - 서호건]({{ site.url }}{{ site.baseurl }}/assets/files/0107_intro_hgseo.pdf)
 5. 머신러닝을 통한 반도체산업 문제 해결 - 이수동 (발표자료 - email 문의)
-6. [에너지 데이터 분석을 위한 머신러닝 - 류승형]({{ site.url }}{{ site.baseurl }}/assets/files/0107_intro_shryu_.pdf)
+6. [에너지 데이터 분석을 위한 머신러닝 - 류승형]({{ site.url }}{{ site.baseurl }}/assets/files/0107_intro_shryu.pdf)

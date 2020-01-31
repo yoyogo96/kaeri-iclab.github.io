@@ -10,64 +10,66 @@ toc: false
 # Members
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/people/gyun.jpg){: .align-left}
-**유용균** <br> <br>
-지능형컴퓨팅연구실장 <br>
-Research Interest : 인공지능 기반 최적설계 <br>
-Phone : 042-868-8160 <br>
-E-mail : ygyu@kaeri.re.kr <br>
+**유용균** <br><br>
+**직책** : 지능형컴퓨팅연구실장 <br>
+**연구분야** : 인공지능 기반 최적설계 <br>
+**Phone** : 042-868-8160 <br>
+**E-mail** : ygyu \[at\] kaeri.re.kr <br>
+> 대한기계학회 학술이사<br> 인공지능머신연구회 이사<br> 카이스트 모바일하버사업단 연구교수 
 
 ---
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/jeon.jpg){: .align-right} 
 **전병일** <br> <br>
-선임연구원 <br>
-Research Interest : 인공지능기반 방사선계측 응용기술 <br>
-Phone : 042-866-6148 <br>
-E-mail : bijeon@kaeri.re.kr <br>
+**직책**: 선임기술원 <br>
+**연구분야** : 인공지능기반 방사선계측 응용기술 <br>
+**Phone** : 042-866-6148 <br>
+**E-mail** : bijeon \[at\] kaeri.re.kr <br>
 
 ---
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/people/tae.jpg){: .align-left} 
 **임경태** <br><br>
-선임연구원 <br>
-Research Interest : 딥러닝 기반 시계열 분석 <br>
-Phone : 042-866-6519 <br>
-E-mail : ktlim@kaeri.re.kr <br>
+**직책** : 선임연구원 <br>
+**연구분야** : 딥러닝 기반 시계열 분석 <br>
+**Phone** : 042-866-6519 <br>
+**E-mail** : ktlim \[at\] kaeri.re.kr <br>
 
 ---
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/dong.jpg){: .align-right} 
 **이수동** <br><br>
-선임연구원 <br>
-Research Interest : Industrial AI, 인공지능 기반기술 <br>
-Phone : 042-866-6522 <br>
-E-mail : sdlee@kaeri.re.kr <br>
+**직책** : 선임연구원 <br>
+**연구분야** : Industrial AI, 인공지능 기반기술 <br>
+**Phone** : 042-866-6522 <br>
+**E-mail** : sdlee \[at\] kaeri.re.kr <br>
 
 ---
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/people/geon.png){: .align-left} 
 **서호건** <br><br>
-선임연구원 <br>
-Research Interest : 센서 및 시계열 데이터 <br>
-Phone : 042-866-6520 <br>
-E-mail : hogeony@kaeri.re.kr <br>
+**직책** : 선임연구원 <br>
+**연구분야** : 센서 및 시계열 데이터 <br>
+**Phone** : 042-866-6520 <br>
+**E-mail** : hogeony \[at\] kaeri.re.kr <br>
+> 한국비파괴검사학회 특임이사 및 편집위원회 위원
 
 ---
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/han.jpg){: .align-right} 
 **이유한** <br><br>
-선임연구원 <br>
-Research Interest : 데이터 사이언스, 이상징후 감지 <br>
-Phone : 042-866-6519 <br>
-E-mail : youhanlee@kaeri.re.kr <br>
+**직책** : 선임연구원 <br>
+**연구분야** : 데이터 사이언스, 이상징후 감지 <br>
+**Phone** : 042-866-6519 <br>
+**E-mail** : youhanlee \[at\] kaeri.re.kr <br>
 
 ---
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/hyoung.jpg){: .align-left} 
 **류승형** <br><br>
-선임연구원 <br>
-Research Interest : Applied ML, 강화 학습 <br>
-Phone : 042-866-6521 <br>
-E-mail : ashryu@kaeri.re.kr <br>
+**직책** : 선임연구원 <br>
+**연구분야** : Applied ML, 강화 학습 <br>
+**Phone** : 042-866-6521 <br>
+**E-mail** : ashryu \[at\] kaeri.re.kr <br>
 
 ---
 # Aivengers assemble!! 
