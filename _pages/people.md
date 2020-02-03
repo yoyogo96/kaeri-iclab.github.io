@@ -45,6 +45,7 @@ toc: false
 **E-mail** : sdlee \[at\] kaeri.re.kr <br>
 
 ---
+
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/people/geon.png){: .align-left} 
 **서호건** <br><br>
 **직책** : 선임연구원 <br>
