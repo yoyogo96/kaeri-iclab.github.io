@@ -51,7 +51,7 @@ toc: false
 **연구분야** : IoT 센서 및 시계열 데이터 기계학습<br>
 **Phone** : 042-866-6520 <br>
 **E-mail** : hogeony \[at\] kaeri.re.kr <br>
-> 한국비파괴검사학회 특임이사 및 편집위원회 위원<br>2019 우수논문상 - 한국스마트미디어학회 2019 추계학술대회 (한국스마트미디어학회)<br>2019 신진연구자상 - 제14회 한국로봇종합학술대회 :: KRoC 2019 (한국로봇학회)<br>2013-2018 글로벌박사양성사업 선정 (한국연구재단)
+> 2020-현재 :: 한국비파괴검사학회 - 특임이사 및 편집위원회 위원<br>2019 한국스마트미디어학회 추계학술대회 - 우수논문상 수상<br>2019 제14회 한국로봇종합학술대회 (KRoC) - 신진연구자상 수상<br>2013-2018 글로벌박사양성사업 선정 (한국연구재단)
 
 ---
 
@@ -72,6 +72,6 @@ toc: false
 **E-mail** : ashryu \[at\] kaeri.re.kr <br>
 
 ---
-# Aivengers assemble!! 
+# Aivengers, Assembled!!!
 
 ![aivengers]({{ site.url }}{{ site.baseurl }}/assets/images/base/Aivengers.jpg){: .align-center} 
