@@ -46,6 +46,7 @@ toc: false
 **Phone** : 042-866-6522 <br>
 **E-mail** : sdlee \[at\] kaeri.re.kr <br>
 > 2018-2019 Senior Engineer, Data Science, SK Hynix
+
 ---
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/people/geon.png){: .align-left} 
