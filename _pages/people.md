@@ -31,9 +31,11 @@ toc: false
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/people/tae.jpg){: .align-left} 
 **임경태** <br><br>
 **직책** : 선임연구원 <br>
-**연구분야** : 딥러닝 기반 시계열 분석 <br>
-**Phone** : 042-866-6519 <br>
+**연구분야** : 자연어처리, 딥러닝 기반 시계열 분석 <br>
+**Phone** : 042-866-6518 <br>
 **E-mail** : ktlim \[at\] kaeri.re.kr <br>
+> The CoNLL 2018 shared task, UAS track 2위 [[paper](https://www.aclweb.org/anthology/K18-2014.pdf)] <br>
+> The 2018 Shared Task on Extrinsic Parser Evaluation: Event Extraction track 1위 [[paper](https://www.aclweb.org/anthology/K18-2002.pdf)]
 
 ---
 
@@ -43,7 +45,7 @@ toc: false
 **연구분야** : Industrial AI, 인공지능 기반기술 <br>
 **Phone** : 042-866-6522 <br>
 **E-mail** : sdlee \[at\] kaeri.re.kr <br>
-
+> 2018-2019 Senior Engineer, Data Science, SK Hynix
 ---
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/people/geon.png){: .align-left} 
 **서호건** <br><br>
@@ -58,9 +60,10 @@ toc: false
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/han.jpg){: .align-right} 
 **이유한** <br><br>
 **직책** : 선임연구원 <br>
-**연구분야** : 데이터 사이언스, 이상징후 감지 <br>
+**연구분야** : 데이터 사이언스 in KAERI <br>
 **Phone** : 042-866-6519 <br>
 **E-mail** : youhanlee \[at\] kaeri.re.kr <br>
+> 캐글코리아 페이스북 그룹 운영자 <br> 캐글 랭킹 131/130,282 (0.1%)<br> [캐글 마스터](https://www.kaggle.com/youhanlee) <br> 캐글 분자물성 예측 대회 세계 3위 <br> 캐글 당뇨망막증 판별 대회 세계 3위
 
 ---
 

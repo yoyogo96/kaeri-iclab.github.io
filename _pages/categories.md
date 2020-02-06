@@ -1,6 +1,6 @@
 ---
 title: "News"
-layout: posts
+layout: categories
 header:
   overlay_image: /assets/images/base/a_news.jpg
 permalink: /categories/

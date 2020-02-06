@@ -1,7 +1,7 @@
 ---
 title:  "원자력연, '탈원전' 속 AI로 돌파구 찾나"
 date:   2020-01-30 
-categories: news
+categories: News
 excerpt: 지능화컴퓨팅연구실 뉴스기사
 header:
     teaser: assets/images/thumb_default.jpg

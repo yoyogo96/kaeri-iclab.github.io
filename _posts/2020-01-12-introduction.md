@@ -1,7 +1,7 @@
 ---
 title:  "지능형컴퓨팅연구실을 소개합니다."
 date:   2020-01-02 
-categories: seminar
+categories: Seminar
 excerpt: 연구실 소개 행사 안내 및 발표자료 공유
 header:
     overlay_image: /assets/images/0107.jpg

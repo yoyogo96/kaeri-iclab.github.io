@@ -8,16 +8,16 @@ author_profile: false
 gallery:
   - url: /assets/images/gallery/0113_gist-1.jpg
     image_path: /assets/images/gallery/0113_gist-1.jpg
-    title: "Image 1 title caption"
+    title: "GDG_1"
   - url: /assets/images/gallery/0113_gist-2.jpg
     image_path: /assets/images/gallery/0113_gist-2.jpg
-    title: "Image 2 title caption"
+    title: "GDG_2"
   - url: /assets/images/gallery/0113_gist-2.jpg
     image_path: /assets/images/gallery/0113_gist-3.jpg
-    title: "Image 3 title caption"
+    title: "GDG_3"
   - url: /assets/images/gallery/0113_gist-2.jpg
     image_path: /assets/images/gallery/0113_gist-4.jpg
-    title: "Image 3 title caption"
+    title: "GDG_4"
 ---
 
 {% include gallery caption="2020-01-13 광주과학기술원 (GIST) 발표." %}

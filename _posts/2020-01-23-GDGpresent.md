@@ -1,7 +1,7 @@
 ---
 title:  "ICLAB in 월간GDG: 광주 1월호(2020)"
 date:   2020-01-23 
-categories: seminar
+categories: Seminar
 excerpt: Deep Talk / 한국원자력연구원 특집
 header:
     overlay_image: /assets/images/base/a_main.jpg
