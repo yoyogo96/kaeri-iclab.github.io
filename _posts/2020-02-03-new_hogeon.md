@@ -2,7 +2,7 @@
 title:  "ICLAB 서호건 선임연구원 - 한국비파괴검사학회 이사 선임"
 date:   2020-02-04 
 categories: News
-excerpt: 지능화컴퓨팅연구실 뉴스기사
+excerpt: 지능형컴퓨팅연구실 뉴스기사
 header:
     teaser: assets/images/thumb_default.jpg
 gallery:
