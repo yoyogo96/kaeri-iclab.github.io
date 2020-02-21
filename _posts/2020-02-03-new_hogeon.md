@@ -8,7 +8,7 @@ header:
 gallery:
   - url: /assets/images/posts/0206_certificate_2.png
     image_path: /assets/images/posts/0206_certificate_2.png
-    title: "한국비파괴검사학회 특임이사 위촉장"
+    title: "한국비파괴검사학회 특임이사 임명장"
   - url: /assets/images/posts/0206_certificate_1.png
     image_path: /assets/images/posts/0206_certificate_1.png
     title: "한국비파괴검사학회 편집위원회 위원 위촉장"
@@ -17,13 +17,13 @@ gallery:
     title: "한국비파괴검사학회 원자력 분과 위원 위촉장"
 
 ---
-# (축) 서호건 선임연구원 <br> 한국비파괴검사학회 특임이사, <br> 편집위원회 위원, 원자력 분과 위원 위촉
+# (축) 서호건 선임연구원 <br> 한국비파괴검사학회 특임임원 임명 및 <br> 편집위원회 위원, 원자력 분과 위원 위촉
 
 ---
 
 지능형컴퓨팅연구실의 '서호건 선임연구원'님께서
-2020년 한국비파괴검사학회 특임이사 및 편집위원회 위원, 원자력 분과 위원으로 위촉되셨습니다.
+2020년 한국비파괴검사학회 특임임원 임명 및 편집위원회 위원, 원자력 분과 위원으로 위촉되셨습니다.
 
 
 ---
-{% include gallery caption="한국비파괴검사학회 임명장" %}
+{% include gallery caption="한국비파괴검사학회 임명장 및 위촉장" %}
