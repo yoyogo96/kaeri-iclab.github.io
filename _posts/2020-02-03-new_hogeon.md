@@ -12,8 +12,8 @@ gallery:
   - url: /assets/images/posts/0206_certificate_1.png
     image_path: /assets/images/posts/0206_certificate_1.png
     title: "한국비파괴검사학회 편집위원회 위원 위촉장"
-  - url: /assets/images/posts/0206_certificate_2.png
-    image_path: /assets/images/posts/0206_certificate_2.png
+  - url: /assets/images/posts/0206_certificate_3.png
+    image_path: /assets/images/posts/0206_certificate_3.png
     title: "한국비파괴검사학회 원자력 분과 위원 위촉장"
 
 ---
