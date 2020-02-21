@@ -55,7 +55,7 @@ toc: false
 **연구분야** : IoT 센서 및 시계열 데이터 기계학습<br>
 **Phone** : 042-866-6520 <br>
 **E-mail** : hogeony \[at\] kaeri.re.kr <br>
->2020-현재 :: 한국비파괴검사학회 - 특임이사<br>2020-현재 :: 한국비파괴검사학회 - 편집위원회 위원<br>2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:: 한국스마트미디어학회 - 우수논문상 수상<br>2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:: 한국로봇학회 - 신진연구자상 수상<br>2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:: 대한의료인공지능학회 - 발기인<br>2013-2018 :: 한국연구재단 글로벌박사양성사업 - 수혜
+>2020-현재 :: 한국비파괴검사학회 - 특임이사<br>2020-현재 :: 한국비파괴검사학회 - 편집위원회 위원<br>2020-현재 :: 한국비파괴검사학회 -  위원<br>2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:: 한국스마트미디어학회 - 우수논문상 수상<br>2019&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:: 한국로봇학회 - 신진연구자상 수상<br>2018&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:: 대한의료인공지능학회 - 발기인<br>2013-2018 :: 한국연구재단 글로벌박사양성사업 - 수혜
 
 ---
 
