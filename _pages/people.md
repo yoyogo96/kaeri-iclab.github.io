@@ -79,6 +79,6 @@ toc: false
 **E-mail** : ashryu \[at\] kaeri.re.kr <br>
 
 ---
-# Aivengers, Assembled!!!
+# AIvengers, Assembled!!!
 
 ![aivengers]({{ site.url }}{{ site.baseurl }}/assets/images/base/Aivengers.jpg){: .align-center} 
