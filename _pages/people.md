@@ -7,7 +7,7 @@ permalink: /people/
 author_profile: false
 toc: false
 ---
-![aivengers]({{ site.url }}{{ site.baseurl }}/assets/images/base/kaeri_iclab_logo_info.png){: .align-center} 
+![aivengers]({{ site.url }}{{ site.baseurl }}/assets/images/kaeri_iclab_logo_info.png){: .align-center} 
 
 # Members
 
