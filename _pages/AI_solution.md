@@ -8,8 +8,11 @@ author_profile: false
 toc: true
 toc_sticky : true
 comments: true
+
 ---
 
+
+Test Test Test
 # AI 특성화 기업 역량강화 사업 <br>- 참여기업 모집
 
 ## 주요 내용
@@ -32,4 +35,4 @@ comments: true
 > 답변입니다.
 
 ## 관련 내용 문의
-@kaeri.re.kr 혹은 아래 댓글 남겨주세요.
+ygyu@kaeri.re.kr 혹은 아래 댓글 남겨주세요.
