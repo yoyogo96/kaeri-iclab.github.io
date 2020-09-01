@@ -15,7 +15,10 @@ toc_sticky : true
 [![유튜브채널](/assets/images/posts/channel.png){: width="90" height="90"} 연구실 유튜브 채널 링크 ](https://www.youtube.com/channel/UCgr4rh_ttx3i75af3eRjDLQ?view_as=subscriber)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/noY3qnPvPUE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YERHAZr0EZA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xPjWjzrnu5w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 연구 포스터
 
