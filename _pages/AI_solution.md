@@ -7,7 +7,6 @@ permalink: /aisolution/
 author_profile: false
 toc: true
 toc_sticky : true
-classes: wide
 comments: true
 ---
 
@@ -23,11 +22,13 @@ comments: true
 
 ## FAQ
 
-1. 첫번째 질문 들어갑니다.
-> 질문에 대한 답변은 ~~~~
+1. 첫번째 질문 입니다..
+> 답변입니다.
 
 2. 두번째 질문 입니다.
-> 답변내용은 ~~~~
+> 답변입니다.
 
-3. 세번째 질문도...
-> 답변답변답변
+3. 세번째 질문 입니다.
+> 답변입니다.
+
+## 관련 내용 문의
