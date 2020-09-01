@@ -36,3 +36,6 @@ toc_sticky : true
 
 [시연 홈페이지 바로가기](http://35.187.150.27:5000/)
 
+## AI 특성화기업 역량강화 사업
+
+![역량강화사업 공고](/assets/images/posts/0901_AI.jpg)

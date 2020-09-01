@@ -4,6 +4,8 @@ main:
     url: /
   - title: "AI-UM"
     url: /aifest/  
+  - title: "AI 특성화 기업"
+    url: /aisolution/
   - title: "People"
     url: /people/
   - title: "Research"
