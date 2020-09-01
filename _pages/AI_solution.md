@@ -32,4 +32,4 @@ comments: true
 > 답변입니다.
 
 ## 관련 내용 문의
-@kaeri.re.kr 혹은 아래 댓글 남겨주세요.
+ygyu@kaeri.re.kr 혹은 아래 댓글 남겨주세요.
