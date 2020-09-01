@@ -2,6 +2,8 @@
 main:
   - title: "Home"
     url: /
+  - title: "AI-UM"
+    url: /aifest/  
   - title: "People"
     url: /people/
   - title: "Research"
