@@ -16,6 +16,8 @@ toc_sticky : true
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/noY3qnPvPUE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WEhZKGECUDU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YERHAZr0EZA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xPjWjzrnu5w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -27,7 +29,6 @@ toc_sticky : true
 
 ### 2. 딥러닝 기반 데이터 복원 모델
 <embed src="/assets/images/poster_2.pdf" width = "100%" height="100%" type="application/pdf">
-<!-- <object data="/assets/images/poster_1.pdf" width = "500" hegihts="700" type='application/pdf'/> -->
 
 ## VQA : Visual Question & Answering
 
