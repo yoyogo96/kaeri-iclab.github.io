@@ -41,13 +41,13 @@ toc: false
 
 ---
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/dong.jpg){: .align-right} 
+<!-- ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/dong.jpg){: .align-right} 
 **이수동** <br><br>
 **직책** : 선임연구원 <br>
 **연구분야** : Industrial AI, 인공지능 기반기술 <br>
 **Phone** : 042-866-6522 <br>
 **E-mail** : sdlee \[at\] kaeri.re.kr <br>
-> 2018-2019 Senior Engineer, Data Science, SK Hynix
+> 2018-2019 Senior Engineer, Data Science, SK Hynix -->
 
 ---
 
@@ -81,6 +81,16 @@ toc: false
 **E-mail** : ashryu \[at\] kaeri.re.kr <br>
 
 ---
+
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/people/geun.jpg){: .align-left} 
+**김승근** <br><br>
+**직책** : 선임연구원 <br>
+**연구분야** : 사고진단, 신호복원 <br>
+**Phone** : 042-866-6740 <br>
+**E-mail** : sgkim92 \[at\] kaeri.re.kr <br>
+
+---
+
 # AIvengers, Assembled!!!
 
 ![aivengers]({{ site.url }}{{ site.baseurl }}/assets/images/base/Aivengers.jpg){: .align-center} 
