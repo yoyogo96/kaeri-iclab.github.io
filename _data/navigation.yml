@@ -2,7 +2,9 @@
 main:
   - title: "Home"
     url: /
-  - title: "AI-UM"
+  - title: "온라인세미나"
+    url: /ai_on_seminar/
+    - title: "AI-UM"
     url: /aifest/  
   - title: "AI 특성화 기업"
     url: /aisolution/
